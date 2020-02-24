@@ -173,3 +173,4 @@ switch(2){
         text = 'weekday';
 }
 console.log(text);
+
